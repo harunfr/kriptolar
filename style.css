@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #000;
+  color: #ddd;
+}
+
+.main-wrapper {
+  display: flex;
+}
+
+a {
+    all: inherit;
+    cursor: pointer;
+}
+
+a:hover {
+  color: #2a962a
+}
+
+h3 {
+  margin: 0;
+}
+
+ul {
+  margin: 4px;
+}
